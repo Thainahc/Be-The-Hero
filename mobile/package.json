@@ -18,7 +18,7 @@
     "intl": "^1.2.5",
     "logkitty": "^0.7.1",
     "mem": "^6.1.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "react": "~16.13.1",
     "react-dom": "~16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
